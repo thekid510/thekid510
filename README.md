@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @thekid510
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Redux and advanced React
+- 👋 Hi, I’m @thekid510 / James Freund
+- I am a Full Stack Web Developer
 - 📫 How to reach me https://www.linkedin.com/in/jamesgfreund/
 
 <!---
