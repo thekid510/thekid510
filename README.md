@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thekid510 / James Freund
-- 👾 I am a coding enthusiast thats loves to game!
-- I am a Full Stack Web Developer
+- 👾 I am a Full Stack Web Developer
+- 🎮 I'm a coding enthusiast thats loves to game!
+- 🥂 Fun Fact: You have to buy a ticket to win the Lottery!
 - 📫 How to reach me https://www.linkedin.com/in/jamesgfreund/
 - 
 <!---
