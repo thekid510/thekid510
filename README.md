@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Freund
-- 👥 One day i met a person to sell him a pair of shoes and that random encounter led to me finding a great friend and mentor who introduced me to         programming and ever since i've been hooked!
+- 👥 One day I met a person to sell him a pair of shoes and that random encounter led to me finding a great friend and mentor who introduced me to         programming and ever since i've been hooked!
 - 👾 I am a Full Stack Web Developer that is Currently looking for frontend job oppurtunities.
 - 👤 I love to see the progression of a wireframe turn into a fully fledged website!
 - 🎮 I'm a coding enthusiast thats loves to game!
